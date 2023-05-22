@@ -341,6 +341,8 @@
 
 ![OMZ_ERD](https://github.com/H0Kyun/favoreat/assets/72697808/d5b4c22d-33e6-4d0b-bd8e-6e6bc4f9c86e)
 
+[Dump_file](https://drive.google.com/drive/folders/1rc3Kl0GMMbzu5p6p_6IP9SPbTO0E38jE?usp=sharing)
+
 <br />
 <br />
 
