@@ -1,4 +1,4 @@
-## <img src="https://github.com/H0Kyun/favoreat/assets/72697808/97fea065-9d4f-4cc3-84d6-f0b99bbc4fdc" width=16px; hegith=16px;/> FAVOREAT 소개
+## <img src="https://github.com/H0Kyun/favoreat/assets/72697808/f1e2a0d6-b054-4158-8ad6-497c6c59d10d" width=16px; hegith=16px;/> FAVOREAT 소개
 
 😋[메뉴 추천] 서비스
 
@@ -23,10 +23,10 @@
 5. [실행방법](#실행방법) <br/>
 6. [기술스택 및 협업툴](#기술스택-및-협업툴) <br/>
 7. [시스템 아키텍처](#시스템-아키텍처) <br/>
-8. [ERD ](#ERD) <br/>
-9. [API 명세서](#API-명세서) <br/>
+8. [ERD](#erd) <br/>
+9. [API 명세서](#api-명세서) <br/>
 10. [스케줄](#스케줄) <br/>
-11. 협업 툴
+11. [협업 툴](#협업-툴)
 
 <br /><br />
 
@@ -149,8 +149,8 @@
 ### 가이드 페이지
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/6b89be26-c7de-465c-9640-92528fcc314c" height=300px/>
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/34db8a39-4304-4f9e-a294-bb00c0eb34bd" height=300px/>
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/b494e047-3e84-4915-b3d7-baeb867a2988" height=300px/>
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/0c0f833a-560a-4123-bc21-f0bfdf664077" height=300px/>
 </div>
 
 ▲ 서비스를 소개하는 가이드 페이지
@@ -160,29 +160,29 @@
 ### 초기 취향 파악 페이지
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/acbdfa84-2086-413b-b09f-daa0c7b11d7f" height=300px />
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/6636406d-00a6-41f1-aad6-60cc1d9a114c" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/013d2c68-1b01-4b0d-8d50-103f13487a99" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/632a6017-21c6-4965-bf89-487c4fa12481" height=300px />
 </div>
 
 ▲ 같이 맛 평가를 할 캐릭터 선택 페이지
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/74bcbf97-c757-4bca-b01b-5e4ab4c06365" height=300px />
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/8e2949b3-db0c-43d1-bf2c-6ec826686720" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/6aaef659-6876-49c1-a8e6-864d72f76528" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/1c77830f-8571-452c-a323-7b16caf80443" height=300px />
 </div>
 
 ▲ 취향 파악을 위해 맛을 평가하는 페이지
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/87686bfd-c024-4a1c-8eaa-7af250cb5129" height=300px />
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/0ef866c6-6867-4348-baf5-df22474ad0c0"  height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/2d870402-a15c-472d-93fc-d27c5c61332c" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/cf576108-800b-40b9-9446-686eabe5558d"  height=300px />
 </div>
 
 ▲ 맛을 평가하는 화면
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/1a69ca30-11cd-4869-8a6f-5521fdfa42aa" height=300px />
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/013f0cb1-6b3d-4963-83ce-47eefed64d75" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/d87116c0-27c3-4413-af1c-3ee40f6f44e9" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/2f9bfed2-7e46-4bca-88c0-57f22d448ecb" height=300px />
 </div>
 
 ▲ 5개의 음식을 평가하면 '맛 평가 종료하기' 버튼이 생긴다.
@@ -192,8 +192,8 @@
 ### 메인 페이지
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/b357e44d-95bd-4439-a462-1ac4f96e506f" height=300px/>
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/3b62e9ce-07e0-4209-b89f-67c311ac65cc" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/522442e3-629d-455b-a159-dda60eed1f33" height=300px/>
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/2638866a-cb08-41f7-8df0-f5cc238b691c" height=300px />
 </div>
 
 ▲ 추천 받은 음식을 볼 수 있는 메인 페이지
@@ -203,8 +203,8 @@
 ### 음식 페이지
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/def83a15-201c-4d19-b611-4763c2b93d39" height=300px />
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/8d8321c1-4175-4777-a8c8-761bad6432da" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/434ea1a1-f887-42bb-a2d3-c2a09c4bea75" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/bc6ab7d0-334c-4bf0-bb48-53c071527998" height=300px />
 </div>
 
 ▲ 음식의 상세정보를 확인할 수 있는 음식 페이지
@@ -214,8 +214,8 @@
 ### 햄버거 바
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/391dd88b-cf3a-44c2-b6ed-a04d69b3095a" height=300px/>
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/d5127a90-b456-441d-9055-56d4bc55733b" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/e75f6515-1d19-4e6e-87f1-1ae501d549a6" height=300px/>
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/78e04f95-6e6e-46c6-90dc-f8fe3801637a" height=300px />
 </div>
 
 ▲ 메뉴 이동을 위한 햄버거 바
@@ -225,15 +225,15 @@
 ### 마이페이지
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/0a6356af-e3e5-4201-8eef-faa473e45a9e" height=300px/>
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/2a4c8f64-9672-4f80-9514-c600f69d789e" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/279432b1-f9e2-4703-991f-6cf7fdf05bd4" height=300px/>
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/fd02e5cf-2eb4-4580-a437-3ccc5f79b7a1" height=300px />
 </div>
 
 ▲ 내가 선호하는 맛 정보와 즐겨찾기한 레시피를 볼 수 있는 마이 페이지
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/389255cc-0bec-4717-a710-db6e6df6b5e4" style="display: inline-block" height=300px/>
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/d14b0a5d-2930-42d8-acd9-dd2d99cf75db" style="display: inline-block" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/48459d60-4e7b-45d2-bd8b-788da958e0f3" style="display: inline-block" height=300px/>
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/2fd20589-93a4-4f5b-a451-bfc06f1d236f" style="display: inline-block" height=300px />
 </div>
 
 ▲ '더보기'버튼을 클릭해 즐겨찾기한 레시피 목록을 볼 수 있다.
@@ -243,8 +243,8 @@
 ### 식단 일기 페이지
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/c6361824-d269-4d64-a504-cd1d8bfd053d" style="display: inline-block" height=300px/>
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/03b03bb4-bd97-40a2-9fa7-7ee9c55be942" style="display: inline-block" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/a8dff23d-7c36-44f7-a462-ffefe7df9b92" style="display: inline-block" height=300px/>
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/3b0dfa3e-4562-4eb3-8141-5593dacfc74c" style="display: inline-block" height=300px />
 </div>
 
 ▲ 먹은 음식과 그 날의 감정을 기록할 수 있는 식단 일기 페이지
@@ -254,20 +254,20 @@
 ### 으른 입맛 테스트 페이지
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/e1a94cf8-f853-4712-b03e-e565caf39c3c" height=300px/>
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/2df5fb91-6c35-4d73-a9d7-2bf2fa9fa090" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/f661d8eb-e652-4baf-a030-48a60a0da61c" height=300px/>
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/f0d3a744-6318-4ccc-a692-1f478c42249c" height=300px />
 </div>
-
+  
 ▲ 입맛 연령 측정을 위한 설문 화면
 
 <div style="display : flex; flex-direction : row; gap:10px;">
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/652ecdb6-0adb-4fb7-b737-5477e2b04d6e" height=300px/>
-  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/9aea957f-3937-4d9a-8bd7-a313119800e7" height=300px />
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/91a99ad8-14d6-4937-84c4-ad28a6ffd4bc" height=300px/>
+  <img src="https://github.com/H0Kyun/favoreat/assets/72697808/1a71bde5-34c2-4824-be98-f8aabd879c76" height=300px />
 </div>
 
 ▲ 결과 화면
 
-<img src="https://github.com/H0Kyun/favoreat/assets/72697808/21d53a72-2a7c-4284-991c-d797c8fc2fd1"  height=300px/>
+<img src="https://github.com/H0Kyun/favoreat/assets/72697808/839c5564-ac80-4d7a-a462-c9d361d9c47b"  height=300px/>
 
 ▲ 결과를 공유하면 카카오톡에 올라오는 말풍선
 
@@ -332,14 +332,14 @@
 
 ## 시스템 아키텍처
 
-![OMZ_System Architecture](https://github.com/H0Kyun/favoreat/assets/72697808/ad845fc9-7068-4d0b-884d-e74aed1c7fad)
+![OMZ_System Architecture](https://github.com/H0Kyun/favoreat/assets/72697808/cb2c962c-a223-4c0e-a0be-0f753fc86216)
 
 <br />
 <br />
 
 ## ERD
 
-![OMZ_ERD](https://github.com/H0Kyun/favoreat/assets/72697808/d5b4c22d-33e6-4d0b-bd8e-6e6bc4f9c86e)
+![OMZ_ERD](https://github.com/H0Kyun/favoreat/assets/72697808/153e4b99-144e-4076-a79a-3341f2bca8da)
 
 [Dump_file](https://drive.google.com/drive/folders/1rc3Kl0GMMbzu5p6p_6IP9SPbTO0E38jE?usp=sharing)
 
@@ -348,18 +348,18 @@
 
 ## API 명세서
 
-![Diary](https://github.com/H0Kyun/favoreat/assets/72697808/fac4a3eb-a89b-4d09-af03-9018e895b6d2)
+![Diary](https://github.com/H0Kyun/favoreat/assets/72697808/ba81f723-8ccf-4602-a59e-74758dd6c299)
 
-![Foods](https://github.com/H0Kyun/favoreat/assets/72697808/c970df3f-9b0a-4950-b3c5-8b3dd5f5df2d)
+![Foods](https://github.com/H0Kyun/favoreat/assets/72697808/2a430d81-5f2c-4a41-964e-f30160ce4c37)
 
-![Users](https://github.com/H0Kyun/favoreat/assets/72697808/101993ec-f3d0-4cdb-a115-aa4b2e030944)
+![Users](https://github.com/H0Kyun/favoreat/assets/72697808/5e844054-6b37-49a6-ab6c-7cb3ab6c21cd)
 
 <br />
 <br />
 
 ## 스케줄
 
-![OMZ_Schedule](https://github.com/H0Kyun/favoreat/assets/72697808/35527857-46d6-4ee7-95fd-6b2449715134)
+![OMZ_Schedule](https://github.com/H0Kyun/favoreat/assets/72697808/b7b8c21b-a970-4a30-97f7-98c96e2cc18f)
 
 ## 협업 툴
 
